@@ -10,3 +10,11 @@ This example only provide simple command line interface, while tkinter can be us
 
 As always have fun =]
 
+
+![Screenshot](img/cmd_line.png?raw=true)
+
+![Screenshot](img/cmd_line_led_on.png?raw=true)
+
+![Screenshot](img/cmd_line_msg.png?raw=true)
+
+
